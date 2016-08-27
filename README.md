@@ -1,4 +1,4 @@
-# aporeto_go
+# go_web_scraper
 
 My first Go project.
 
